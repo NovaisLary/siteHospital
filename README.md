@@ -1,7 +1,7 @@
 
 <h1 align="center"> Site Hospital </h1>
 
-## tecnologia utilizada
+## Tecnologia utilizada
 bootstrap  
 HTML  
 Css
